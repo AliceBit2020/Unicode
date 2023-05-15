@@ -46,7 +46,7 @@ int main()
 
 
     cout << "Code1 for Master" << endl;
-
+    cout << "Code2 for Master" << endl;
 
 }
 
