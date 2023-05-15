@@ -5,7 +5,7 @@
 
 
 
-
+using namespace std;
 
 int main()
 {
@@ -44,7 +44,7 @@ int main()
 // Tools > Options > Environment > Documents, named Save documents as Unicode when data cannot be saved in codepage
 
 
-
+    cout << "Test code1 for Br1" << endl;
 
 
 
