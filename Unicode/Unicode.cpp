@@ -44,6 +44,9 @@ int main()
 // Tools > Options > Environment > Documents, named Save documents as Unicode when data cannot be saved in codepage
 
 
+    cout << "Test code1 for Br1" << endl;
+    cout << "Test code2 for Br1" << endl;
+
 
     cout << "Code1 for Master" << endl;
     cout << "Code2 for Master" << endl;
